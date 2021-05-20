@@ -1,0 +1,22 @@
+body
+{
+	background-image: linear-gradient(to right top, #6bd1cd, #00c4dd, #00b3f1, #009fff, #0083ff, #008aff, #0091ff, #0097ff, #00bbff, #00d8f4, #00eeb3, #66fb5f);
+}
+
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+#numberinput1,#numberinput2 {
+    display: inline-block;
+    width: 50%;
+    background-color:whitesmoke;
+    padding: 5px;
+    
+}
